@@ -46,7 +46,7 @@ Requirements:
     'author': 'ÖMER KADİR | ÖMER TEKNOLOJİ',
     'website': 'https://omertek.com/',
     'license': 'LGPL-3',
-    'versions': '18.0',
+    'versions': ['18.0',],
     'depends': [
         'base',
         'web',
